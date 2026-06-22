@@ -25,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Azhan1830/Leet-Code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Azhan1830/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Azhan1830/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Azhan1830/Leet-Code/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Azhan1830/Leet-Code/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
