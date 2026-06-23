@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Azhan1830/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Azhan1830/Leet-Code/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Azhan1830/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Azhan1830/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Azhan1830/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Azhan1830/Leet-Code/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Azhan1830/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
