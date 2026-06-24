@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Azhan1830/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Azhan1830/Leet-Code/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Azhan1830/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/Azhan1830/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Azhan1830/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Azhan1830/Leet-Code/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Azhan1830/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
