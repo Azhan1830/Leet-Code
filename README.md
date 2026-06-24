@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Azhan1830/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Azhan1830/Leet-Code/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Azhan1830/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Azhan1830/Leet-Code/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Azhan1830/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,8 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
