@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Azhan1830/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [3516-find-closest-person](https://github.com/Azhan1830/Leet-Code/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
