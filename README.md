@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Azhan1830/Leet-Code/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Azhan1830/Leet-Code/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Azhan1830/Leet-Code/tree/master/0367-valid-perfect-square) |
