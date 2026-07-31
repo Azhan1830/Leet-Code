@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Azhan1830/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/Azhan1830/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/Azhan1830/Leet-Code/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Azhan1830/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
