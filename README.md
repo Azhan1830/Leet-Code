@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Azhan1830/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Azhan1830/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Azhan1830/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Azhan1830/Leet-Code/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Azhan1830/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Azhan1830/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Azhan1830/Leet-Code/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Azhan1830/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Azhan1830/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
@@ -133,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Azhan1830/Leet-Code/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
