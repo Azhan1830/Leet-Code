@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Azhan1830/Leet-Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Azhan1830/Leet-Code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Azhan1830/Leet-Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Azhan1830/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Azhan1830/Leet-Code/tree/master/0509-fibonacci-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Azhan1830/Leet-Code/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Azhan1830/Leet-Code/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Azhan1830/Leet-Code/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Azhan1830/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
