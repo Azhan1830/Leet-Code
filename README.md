@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Azhan1830/Leet-Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Azhan1830/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Azhan1830/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Azhan1830/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Azhan1830/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Azhan1830/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Azhan1830/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Azhan1830/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Azhan1830/Leet-Code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
