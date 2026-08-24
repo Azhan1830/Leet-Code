@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Azhan1830/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Azhan1830/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Azhan1830/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Azhan1830/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Simulation
 |  |
 | ------- |
@@ -212,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Azhan1830/Leet-Code/tree/master/0242-valid-anagram) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
