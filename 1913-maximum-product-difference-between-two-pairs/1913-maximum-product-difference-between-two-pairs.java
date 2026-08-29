@@ -1,9 +1,13 @@
 class Solution {
     public int maxProductDifference(int[] nums) {
         Arrays.sort(nums);
-        int p1 = nums[0]*nums[1];
-        int p2 = nums[nums.length-1]*nums[nums.length-2];
-        int p = p2-p1;
-        return p;
+        int n = nums.length;
+
+        int a = nums[0];
+        int b = nums[1];
+        int c = nums[n-1];
+        int d = nums[n-2];
+
+        return (d*c) - (b*a);
     }
 }
