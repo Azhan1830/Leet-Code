@@ -1,13 +1,27 @@
 class Solution {
     public int maxProductDifference(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
+        int max1 = 0;
+        int max2 = 0;
 
-        int a = nums[0];
-        int b = nums[1];
-        int c = nums[n-1];
-        int d = nums[n-2];
+        int min1 = Integer.MAX_VALUE;
+        int min2 = Integer.MAX_VALUE;
 
-        return (d*c) - (b*a);
+        for(int i: nums){
+            if(i > max1){
+                max2 = max1;
+                max1 = i;
+            }
+            else if(i > max2){
+                max2 = i;
+            }
+            if(i < min1){
+                min2 = min1;
+                min1 = i;
+            }
+            else if(i < min2){
+                min2 = i;
+            }
+        }
+        return (max1*max2) - (min1*min2);
     }
 }
