@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Azhan1830/Leet-Code/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Azhan1830/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Azhan1830/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Azhan1830/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Azhan1830/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Azhan1830/Leet-Code/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Azhan1830/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Simulation
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Azhan1830/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Number Theory
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Azhan1830/Leet-Code/tree/master/1122-relative-sort-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Azhan1830/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
