@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Azhan1830/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Azhan1830/Leet-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Azhan1830/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/Azhan1830/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Azhan1830/Leet-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Azhan1830/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/Azhan1830/Leet-Code/tree/master/1859-sorting-the-sentence) |
@@ -236,11 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Azhan1830/Leet-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Azhan1830/Leet-Code/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Azhan1830/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Azhan1830/Leet-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Azhan1830/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Azhan1830/Leet-Code/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
