@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Azhan1830/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Azhan1830/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Azhan1830/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/Azhan1830/Leet-Code/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Azhan1830/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Azhan1830/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
