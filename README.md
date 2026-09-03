@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Azhan1830/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Azhan1830/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Azhan1830/Leet-Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Azhan1830/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Azhan1830/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Azhan1830/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Azhan1830/Leet-Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Azhan1830/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/Azhan1830/Leet-Code/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Quicksort
