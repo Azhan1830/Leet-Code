@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Azhan1830/Leet-Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Azhan1830/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Azhan1830/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Azhan1830/Leet-Code/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Azhan1830/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Azhan1830/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Azhan1830/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Azhan1830/Leet-Code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Azhan1830/Leet-Code/tree/master/0287-find-the-duplicate-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Azhan1830/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Azhan1830/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
