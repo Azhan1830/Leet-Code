@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Azhan1830/Leet-Code/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Azhan1830/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Azhan1830/Leet-Code/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Azhan1830/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Azhan1830/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Azhan1830/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Azhan1830/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Azhan1830/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Azhan1830/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1859-sorting-the-sentence](https://github.com/Azhan1830/Leet-Code/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Quicksort
