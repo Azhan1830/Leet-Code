@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Azhan1830/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Azhan1830/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Azhan1830/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Azhan1830/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Azhan1830/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Azhan1830/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Azhan1830/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Azhan1830/Leet-Code/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Math
 |  |
 | ------- |
