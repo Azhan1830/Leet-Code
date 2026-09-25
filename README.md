@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Azhan1830/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Azhan1830/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Azhan1830/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Azhan1830/Leet-Code/tree/master/1051-height-checker) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Azhan1830/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Azhan1830/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Azhan1830/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -308,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Azhan1830/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
