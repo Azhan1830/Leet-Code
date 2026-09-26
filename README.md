@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Azhan1830/Leet-Code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Azhan1830/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Azhan1830/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Azhan1830/Leet-Code/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Azhan1830/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Azhan1830/Leet-Code/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Azhan1830/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Azhan1830/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Azhan1830/Leet-Code/tree/master/0918-maximum-sum-circular-subarray) |
