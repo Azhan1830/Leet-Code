@@ -4,19 +4,22 @@ class Solution {
         int n = s2.length();
 
         if (k > n) return false;
-        
-        char[] s1Arr = s1.toCharArray();
-        Arrays.sort(s1Arr);
-        String sorts1 = new String(s1Arr);
 
-        for (int i=0; i<=n-k; i++) {
-            String sub = s2.substring(i, i+k);
+        int freq1[] = new int[26];
+        int freq2[] = new int[26];
 
-            char[] subArr = sub.toCharArray();
-            Arrays.sort(subArr);
-            String sortedsub = new String(subArr);
+        for (int i=0; i<k; i++) {
+            freq1[s1.charAt(i) - 'a']++;
+            freq2[s2.charAt(i) - 'a']++;
+        }
 
-            if (sorts1.equals(sortedsub)) return true;
+        if (Arrays.equals(freq1, freq2)) return true;
+
+        for (int i=k; i<n; i++) {
+            freq2[s2.charAt(i) - 'a']++;
+            freq2[s2.charAt(i-k) - 'a']--;
+
+            if (Arrays.equals(freq1, freq2)) return true;
         }
         return false;
     }
