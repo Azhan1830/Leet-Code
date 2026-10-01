@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Azhan1830/Leet-Code/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Azhan1830/Leet-Code/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Azhan1830/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Azhan1830/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1859-sorting-the-sentence](https://github.com/Azhan1830/Leet-Code/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Azhan1830/Leet-Code/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3498-reverse-degree-of-a-string](https://github.com/Azhan1830/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
