@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Azhan1830/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Azhan1830/Leet-Code/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/Azhan1830/Leet-Code/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Azhan1830/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/Azhan1830/Leet-Code/tree/master/3516-find-closest-person) |
@@ -334,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Azhan1830/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
