@@ -1,8 +1,8 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()) return false;
-
-        // Converting both strings to array sice strings are immutable
+        // convert->sort->compare
+        // Converting both strings to array
         char[] s_char = s.toCharArray();
         char[] t_char = t.toCharArray();
 
