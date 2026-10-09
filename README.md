@@ -350,5 +350,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Azhan1830/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Azhan1830/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
