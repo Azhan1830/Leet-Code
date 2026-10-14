@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Azhan1830/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Azhan1830/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Azhan1830/Leet-Code/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Azhan1830/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Azhan1830/Leet-Code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Azhan1830/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
+| [0876-middle-of-the-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
