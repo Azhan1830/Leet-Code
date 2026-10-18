@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Azhan1830/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Azhan1830/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Azhan1830/Leet-Code/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
