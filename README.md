@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Azhan1830/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Azhan1830/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Azhan1830/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Azhan1830/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Azhan1830/Leet-Code/tree/master/0179-largest-number) |
@@ -370,9 +371,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Azhan1830/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Azhan1830/Leet-Code/tree/master/0143-reorder-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0707-design-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Azhan1830/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
