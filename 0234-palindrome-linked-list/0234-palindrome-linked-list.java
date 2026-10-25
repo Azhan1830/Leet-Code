@@ -38,14 +38,16 @@ class Solution {
     }
     
     public boolean isPalindrome(ListNode head) {
-
+        if (head == null) return true;
+        if (head.next == null) return true;
+        
         // mid point LL --> break
         ListNode list2 = getMidPoint(head);
 
         // list 1, list 2 --> separate
         ListNode temp = head;
         
-        while (temp.next != null) {
+        while (temp.next != list2) {
             temp = temp.next;
         }
         temp.next = null;
