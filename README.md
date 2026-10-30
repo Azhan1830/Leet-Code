@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Azhan1830/Leet-Code/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Azhan1830/Leet-Code/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Azhan1830/Leet-Code/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Azhan1830/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Azhan1830/Leet-Code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Azhan1830/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Azhan1830/Leet-Code/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
