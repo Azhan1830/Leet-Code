@@ -43,6 +43,7 @@ class Solution {
             pre = curr;
             len -= k;
         }
+        // return modified head
         return dummy.next;
     }
 }
