@@ -25,6 +25,7 @@ class Solution {
 
             prev = first;
         }
+        // return head
         return dummy.next;
     }
 }
