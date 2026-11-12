@@ -10,35 +10,29 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        /*
-        1. Ek pointer left lo aur usko k-1 steps aage badha do taaki wo start se kth node par khada ho jaye.
-
-        2. Ab ek right pointer lo jo head par ho, aur ek curr pointer lo jo current left ki position par ho.
-
-        3. Jab tak curr.next != null nahi ho jata, tab tak curr aur right dono ko ek-ek step aage badhao.
-
-        4. Jab curr list ke end par pahuchega, tumhara right pointer automatically end se kth node par khada hoga (kyunki dono ke beech ka gap exactly k maintain hua hai).
-
-        5. Dono ki values swap karo aur head return kar do. Ek hi loop mein saara kaam ho gaya!
-        */
-
-        ListNode left = head;
-        for (int i=1; i<k; i++) {
-            left = left.next;
+        ListNode first = head;
+        for (int i=1; i<=(k-1); i++) {
+            first = first.next;
         }
 
-        ListNode curr = left;
-        ListNode right = head;
+        // first -> kth node from beginning
 
-        while (curr.next != null) {
-            curr = curr.next;
-            right = right.next;
+        ListNode temp = first.next;
+        ListNode second = head;
+        // is window ko move kiya one step at a time
+        while (temp != null) {
+            temp = temp.next;
+            second = second.next;
         }
 
-        int temp = left.val;
-        left.val = right.val;
-        right.val = temp;
+        // ab temp null pr aa chuka h
+        // iska mtlb second node -> kth node from end h
+        // ab swap values
+        int tempVal = first.val;
+        first.val = second.val;
+        second.val = tempVal;
 
+        // return modified head
         return head;
     }
 }
