@@ -11,26 +11,37 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
+        // detect cycle
         ListNode slow = head;
         ListNode fast = head;
+        boolean HasCycle = false;
 
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        while (fast != null) {
+            fast = fast.next;
+            if (fast != null) {
+                fast = fast.next;
+                slow = slow.next;
+            }
 
-            if(slow == fast){
-                //cycle found
-                
-                //find starting node
-                slow = head;
-                while(slow != fast){
-                    slow = slow.next;
-                    fast = fast.next;
-                }
-                return slow;
+            if (fast == slow) {
+                HasCycle = true;
+                break;
             }
         }
-        //no cycle
-        return null;
+        
+        if (HasCycle == false) {
+            return null;
+        }
+
+        // detect starting node
+        slow = head;
+        while(fast != slow) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+
+        // ab loop ke bhar tbhi ayege jb (slow == fast) hoga
+        ListNode startingNode = slow;
+        return startingNode;
     }
 }
