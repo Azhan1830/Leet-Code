@@ -10,40 +10,35 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null || head.next == null || k == 1) return head;
-
-        // calculate length
+        
         int len = 0;
         ListNode temp = head;
-        while (temp != null) {
+        while(temp != null) {
             len++;
             temp = temp.next;
         }
-
-        // dummy node setup
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        
-
-        ListNode pre = dummy;
-        ListNode curr;
-        ListNode nex;
-
-        // reverse in k-groups
-        while (len >= k) {
-            curr = pre.next;
-            nex = curr.next;
-
-            for (int i=1; i<k; i++) {
-                curr.next = nex.next;
-                nex.next = pre.next;
-                pre.next = nex;
-                nex = curr.next;
-            }
-            pre = curr;
-            len -= k;
+        if (len < k) {
+            return head;
         }
+
+        // reverse first 'k' len group
+        ListNode prev = null;
+        ListNode curr = head;
+        
+        for (int i=1; i<=k; i++) {
+            ListNode fwd = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = fwd;
+        }
+
+        // solve the remaining list using recursion
+        ListNode RecursionAnsHead = reverseKGroup(curr, k);
+
+        // join both list
+        head.next = RecursionAnsHead;
+
         // return modified head
-        return dummy.next;
+        return prev;
     }
 }
